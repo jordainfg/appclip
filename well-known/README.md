@@ -1,3 +1,0 @@
-# appclip
-
-test
